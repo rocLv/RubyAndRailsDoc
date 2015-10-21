@@ -1,0 +1,12 @@
+Sat, 03 Oct 2015 10:50:10 -0500
+uri.rb	Sat, 03 Oct 2015 10:13:23 -0500
+uri/common.rb	Sat, 03 Oct 2015 10:13:23 -0500
+uri/ftp.rb	Sat, 03 Oct 2015 10:13:23 -0500
+uri/generic.rb	Sat, 03 Oct 2015 10:13:23 -0500
+uri/http.rb	Sat, 03 Oct 2015 10:13:23 -0500
+uri/https.rb	Sat, 03 Oct 2015 10:13:23 -0500
+uri/ldap.rb	Sat, 03 Oct 2015 10:13:23 -0500
+uri/ldaps.rb	Sat, 03 Oct 2015 10:13:23 -0500
+uri/mailto.rb	Sat, 03 Oct 2015 10:13:23 -0500
+uri/rfc2396_parser.rb	Sat, 03 Oct 2015 10:13:23 -0500
+uri/rfc3986_parser.rb	Sat, 03 Oct 2015 10:13:23 -0500

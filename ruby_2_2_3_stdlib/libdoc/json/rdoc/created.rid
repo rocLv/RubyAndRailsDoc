@@ -1,0 +1,21 @@
+Sat, 03 Oct 2015 10:47:14 -0500
+json/generator/generator.c	Sat, 03 Oct 2015 10:13:24 -0500
+json/lib/json/add/bigdecimal.rb	Sat, 03 Oct 2015 10:13:24 -0500
+json/lib/json/add/complex.rb	Sat, 03 Oct 2015 10:13:24 -0500
+json/lib/json/add/core.rb	Sat, 03 Oct 2015 10:13:24 -0500
+json/lib/json/add/date.rb	Sat, 03 Oct 2015 10:13:24 -0500
+json/lib/json/add/date_time.rb	Sat, 03 Oct 2015 10:13:24 -0500
+json/lib/json/add/exception.rb	Sat, 03 Oct 2015 10:13:24 -0500
+json/lib/json/add/ostruct.rb	Sat, 03 Oct 2015 10:13:24 -0500
+json/lib/json/add/range.rb	Sat, 03 Oct 2015 10:13:24 -0500
+json/lib/json/add/rational.rb	Sat, 03 Oct 2015 10:13:24 -0500
+json/lib/json/add/regexp.rb	Sat, 03 Oct 2015 10:13:24 -0500
+json/lib/json/add/struct.rb	Sat, 03 Oct 2015 10:13:24 -0500
+json/lib/json/add/symbol.rb	Sat, 03 Oct 2015 10:13:24 -0500
+json/lib/json/add/time.rb	Sat, 03 Oct 2015 10:13:24 -0500
+json/lib/json/common.rb	Sat, 03 Oct 2015 10:13:24 -0500
+json/lib/json/ext.rb	Sat, 03 Oct 2015 10:13:24 -0500
+json/lib/json/generic_object.rb	Sat, 03 Oct 2015 10:13:24 -0500
+json/lib/json/version.rb	Sat, 03 Oct 2015 10:13:24 -0500
+json/lib/json.rb	Sat, 03 Oct 2015 10:13:24 -0500
+json/parser/parser.c	Sat, 03 Oct 2015 10:13:24 -0500
